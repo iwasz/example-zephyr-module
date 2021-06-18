@@ -1,0 +1,6 @@
+menu "My super zephyr module"
+
+rsource "drivers/Kconfig"
+
+endmenu
+
